@@ -249,15 +249,16 @@
 }
 
 @media only screen and (max-width:980px) {
-    
+
     .banner-form {
-       display: block;
-       background-color: transparent !important;
-       border-radius: 0px !important;
-       padding-left: 0px;
-       padding-right: 0px;
-       margin-top: 30px;
+        display: block;
+        background-color: transparent !important;
+        border-radius: 0px !important;
+        padding-left: 0px;
+        padding-right: 0px;
+        margin-top: 30px;
     }
+
     .banner-form button {
         margin-top: 20px;
         width: 100%;
@@ -268,8 +269,9 @@
         padding-right: 30px;
 
     }
+
     .banner-form input {
-        padding: 17px 20px 17px 20px ;
+        padding: 17px 20px 17px 20px;
         border: none !important;
         width: 100%;
         background-color: #FEFEFF;
@@ -277,6 +279,7 @@
         font-family: poppins;
         font-weight: 100 !important;
     }
+
     .banner-form button:hover {
         margin-top: 20px;
         width: 100%;
@@ -294,7 +297,8 @@
 
 
 }
-@media only screen and ( max-width:412px){
+
+@media only screen and (max-width:412px) {
     .banner-content h1 {
         font-size: 38px !important;
         line-height: 60px;
